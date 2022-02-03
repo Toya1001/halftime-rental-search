@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/halftime-rentals-search/static/css/main.073c9b0a.css",
-    "main.js": "/halftime-rentals-search/static/js/main.32bc09b4.js",
-    "static/js/787.7e28fa80.chunk.js": "/halftime-rentals-search/static/js/787.7e28fa80.chunk.js",
-    "static/media/logo.svg": "/halftime-rentals-search/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/halftime-rentals-search/static/css/main.94bf988a.chunk.css",
+    "main.js": "/halftime-rentals-search/static/js/main.a7a8074e.chunk.js",
+    "main.js.map": "/halftime-rentals-search/static/js/main.a7a8074e.chunk.js.map",
+    "runtime~main.js": "/halftime-rentals-search/static/js/runtime~main.e93d4fb9.js",
+    "runtime~main.js.map": "/halftime-rentals-search/static/js/runtime~main.e93d4fb9.js.map",
+    "static/js/2.716ea5bf.chunk.js": "/halftime-rentals-search/static/js/2.716ea5bf.chunk.js",
+    "static/js/2.716ea5bf.chunk.js.map": "/halftime-rentals-search/static/js/2.716ea5bf.chunk.js.map",
+    "static/js/3.13844b13.chunk.js": "/halftime-rentals-search/static/js/3.13844b13.chunk.js",
+    "static/js/3.13844b13.chunk.js.map": "/halftime-rentals-search/static/js/3.13844b13.chunk.js.map",
     "index.html": "/halftime-rentals-search/index.html",
-    "main.073c9b0a.css.map": "/halftime-rentals-search/static/css/main.073c9b0a.css.map",
-    "main.32bc09b4.js.map": "/halftime-rentals-search/static/js/main.32bc09b4.js.map",
-    "787.7e28fa80.chunk.js.map": "/halftime-rentals-search/static/js/787.7e28fa80.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.32bc09b4.js"
-  ]
+    "precache-manifest.82512168cc3ecd0eeda41c827435035d.js": "/halftime-rentals-search/precache-manifest.82512168cc3ecd0eeda41c827435035d.js",
+    "service-worker.js": "/halftime-rentals-search/service-worker.js",
+    "static/css/main.94bf988a.chunk.css.map": "/halftime-rentals-search/static/css/main.94bf988a.chunk.css.map"
+  }
 }
